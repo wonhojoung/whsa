@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-31_1555",
+    "name": "mrjeonggak",
     "currentPage": "index.html",
     "theme": {
       "name": "spacem",
@@ -22,8 +22,13 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 12,
-    "versionPublish": "4.4.0"
+    "uniqCompNum": 16,
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": "",
+    "scrollAnimation": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -194,6 +199,74 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "spacing": "0",
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x2281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x2281-800x912.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/33-2000x2281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/33-2000x2281-800x912.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2281-800x912.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x2281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2281-800x912.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "allItem": "All",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-f"
         },
         {
           "_params": {
