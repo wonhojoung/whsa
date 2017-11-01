@@ -219,7 +219,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -252,7 +252,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2-2000x2281.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x2281-800x912.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
