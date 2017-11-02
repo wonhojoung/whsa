@@ -636,6 +636,9 @@ a:hover,
   color: #c95644;
 }
 
+#image2-t DIV {
+  color: #ffffff;
+}
 #menu2-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -711,9 +714,6 @@ a:hover,
 }
 #menu2-h .dropdown-item[aria-expanded="true"] {
   color: #222!important;
-}
-#image2-t DIV {
-  color: #ffffff;
 }
 
 #menu2-x .hide-buttons .nav-btn {

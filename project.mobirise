@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mrjeonggak",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -534,6 +534,38 @@
           "_anchor": "title4-u"
         },
         {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-1647x2189.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "17년 05월 02일 디자인 특허 등록증",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-t",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -796,38 +828,6 @@
           ],
           "_name": "footer2",
           "_anchor": "footer2-i"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-1647x2189.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "17년 05월 02일 디자인 특허 등록증",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-t",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          }
         }
       ]
     },
@@ -837,6 +837,39 @@
         "order": 1
       },
       "components": [
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "showTitle": true,
+            "showSeparator": true,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<em><br></em><br><br><br>정각 스님 작품",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title4",
+          "_anchor": "title4-11"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1091,39 +1124,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-14"
-        },
-        {
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "showTitle": true,
-            "showSeparator": true,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em><br></em><br><br><br>정각 스님 작품",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-11"
         }
       ]
     }
