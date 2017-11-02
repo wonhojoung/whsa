@@ -22,7 +22,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -128,7 +128,7 @@
             }
           },
           "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"></a>   ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+82 55-933-9308\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>055-933-9308</a><a data-app-btn=\"true\" href=\"mailto:wolwhangsajeonggak@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>wolwhangsajeonggak@gmail.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+82 55-933-9308\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>055-933-0308</a><a data-app-btn=\"true\" href=\"mailto:wolwhangsajeonggak@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>wolwhangsajeonggak@gmail.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -313,9 +313,9 @@
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
-          "text1": "경상남도 합천군 대병면 대지길 280&nbsp;",
+          "text1": "경상남도 합천군 대병면 대지길 280 (구: 연지암)",
           "text2": "wolhangsajeonggak@gmail.com",
-          "text3": "Tel 055-933-9308",
+          "text3": "Tel) 055-933-0308",
           "form": {
             "title": "MESSAGE",
             "action": "wolhangsajeonggak@gmail.com",
@@ -422,7 +422,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "2017 All rights reserved. Development by 월황사",
+          "copyright": "한국불교연화조계종 월황사<br>50217 경상남도 합천군 대병면 대지길 280 (구: 연지암)&nbsp;<br><br>Tel) 055-933-0308 / Fax) 055-934-0308<br>HP) 010-2876-0108<br><br>2017 All rights reserved. Development by 월황사",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
