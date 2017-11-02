@@ -243,7 +243,7 @@
           },
           "title": "정각스님",
           "text": "- 독거노인돕기 기금마련전시전 (창원시생활체육관)<br>- 독거노인돕기 기금마련전시전 (창원성산아트홀)<br>- 독거노인돕기 기금마련전시전 (신세계백화점 문화센타)<br>- 불교방송주최 독거노인돕기기금마련전시전 (서울백상기념관 외 전국7개 광역시)<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" role=\"button\">작품소개</a> <a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" role=\"button\">특허소개</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" role=\"button\">작품소개</a> <a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" role=\"button\">특허소개</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
