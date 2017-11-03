@@ -36,8 +36,8 @@
       "settings": {
         "main": true,
         "title": "월황사",
-        "meta_descr": "",
-        "header_custom": "",
+        "meta_descr": "정각스님이 계신 월황사입니다.",
+        "header_custom": "<meta name=\"naver-site-verification\" content=\"2b996be4eb828c10e76a5aced9106d2eaf6f4dcc\"/>",
         "footer_custom": "",
         "html_before": ""
       },
